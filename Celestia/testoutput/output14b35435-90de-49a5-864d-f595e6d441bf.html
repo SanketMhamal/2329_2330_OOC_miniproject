@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+    <meta charset="UTF-8">
+    <title>Number of Orders vs. Total Order Amount</title>
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+</head>
+<body>
+    <div id='target' ></div>
+        <script>
+        var target_target = document.getElementById('target');
+        var layout = {
+    title: 'Number of Orders vs. Total Order Amount',
+    height: 600,
+    width: 800,
+    showlegend: true,
+    xaxis: {
+    title: 'ORDERID',
+    },
+
+    yaxis: {
+    title: 'AMOUNT',
+    },
+
+};
+
+var trace0 =
+{
+x: ["1","1","1","1","1"],
+y: ["4","4","4","4","4"],
+showlegend: true,
+marker: {
+    size: 6.0,
+    opacity: 0.75,
+},
+mode: 'markers',
+xaxis: 'x',
+yaxis: 'y',
+type: 'scatter',
+name: 'hjthhjfjfh',
+};
+var trace1 =
+{
+x: ["9","9","9","9","9"],
+y: ["40","40","40","40","40"],
+showlegend: true,
+marker: {
+    size: 6.0,
+    opacity: 0.75,
+},
+mode: 'markers',
+xaxis: 'x',
+yaxis: 'y',
+type: 'scatter',
+name: 'CustName',
+};
+var trace2 =
+{
+x: ["15","15","15","15","15","20","20","20","20","20"],
+y: ["10000","10000","10000","10000","10000","12","12","12","12","12"],
+showlegend: true,
+marker: {
+    size: 6.0,
+    opacity: 0.75,
+},
+mode: 'markers',
+xaxis: 'x',
+yaxis: 'y',
+type: 'scatter',
+name: 'f',
+};
+
+        var data = [ trace0, trace1, trace2];
+Plotly.newPlot(target_target, data, layout);            </script>
+
+</body>
+</html>

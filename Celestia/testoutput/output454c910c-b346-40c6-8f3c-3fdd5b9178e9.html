@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+    <meta charset="UTF-8">
+    <title>Order Amounts Over Time by Customer</title>
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+</head>
+<body>
+    <div id='target' ></div>
+        <script>
+        var target_target = document.getElementById('target');
+        var layout = {
+    title: 'Order Amounts Over Time by Customer',
+    height: 600,
+    width: 800,
+    showlegend: true,
+    xaxis: {
+    title: 'ORDERDATE',
+    },
+
+    yaxis: {
+    title: 'AMOUNT',
+    },
+
+};
+
+var trace0 =
+{
+x: ["0.0","0.0","0.0","0.0","0.0"],
+y: ["4","4","4","4","4"],
+showlegend: true,
+mode: 'lines',
+xaxis: 'x',
+yaxis: 'y',
+type: 'scatter',
+name: 'hjthhjfjfh',
+};
+var trace1 =
+{
+x: ["0.0","0.0","0.0","0.0","0.0"],
+y: ["40","40","40","40","40"],
+showlegend: true,
+mode: 'lines',
+xaxis: 'x',
+yaxis: 'y',
+type: 'scatter',
+name: 'CustName',
+};
+var trace2 =
+{
+x: ["0.0","0.0","0.0","0.0","0.0","1.0","1.0","1.0","1.0","1.0"],
+y: ["10000","10000","10000","10000","10000","12","12","12","12","12"],
+showlegend: true,
+mode: 'lines',
+xaxis: 'x',
+yaxis: 'y',
+type: 'scatter',
+name: 'f',
+};
+
+        var data = [ trace0, trace1, trace2];
+Plotly.newPlot(target_target, data, layout);            </script>
+
+</body>
+</html>
