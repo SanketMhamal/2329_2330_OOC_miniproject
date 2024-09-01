@@ -60,7 +60,7 @@ public class Splash extends javax.swing.JFrame {
         Percentage.setText("%");
         jPanel1.add(Percentage, new org.netbeans.lib.awtextra.AbsoluteConstraints(420, 210, 69, -1));
 
-        jLabel3.setIcon(new javax.swing.ImageIcon("C:\\Users\\Vinay\\Desktop\\png\\splashscreen.png")); // NOI18N
+        jLabel3.setIcon(new javax.swing.ImageIcon("C:\\Users\\Vinay\\Desktop\\PROJECT\\png\\splashscreen.png")); // NOI18N
         jPanel1.add(jLabel3, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 750, 300));
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());

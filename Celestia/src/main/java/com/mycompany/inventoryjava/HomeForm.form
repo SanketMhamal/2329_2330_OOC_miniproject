@@ -253,7 +253,7 @@
         <Component class="javax.swing.JLabel" name="jLabel11">
           <Properties>
             <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="2" name="C:\Users\Vinay\Desktop\png\products.png"/>
+              <Image iconType="2" name="C:\Users\Vinay\Desktop\PROJECT\png\products.png"/>
             </Property>
           </Properties>
           <Constraints>
@@ -265,7 +265,7 @@
         <Component class="javax.swing.JLabel" name="jLabel12">
           <Properties>
             <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="2" name="C:\Users\Vinay\Desktop\png\user.png"/>
+              <Image iconType="2" name="C:\Users\Vinay\Desktop\PROJECT\png\user.png"/>
             </Property>
           </Properties>
           <Constraints>
@@ -277,7 +277,7 @@
         <Component class="javax.swing.JLabel" name="jLabel13">
           <Properties>
             <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="2" name="C:\Users\Vinay\Desktop\png\customer.png"/>
+              <Image iconType="2" name="C:\Users\Vinay\Desktop\PROJECT\png\customer.png"/>
             </Property>
           </Properties>
           <Constraints>
@@ -289,7 +289,7 @@
         <Component class="javax.swing.JLabel" name="jLabel14">
           <Properties>
             <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="2" name="C:\Users\Vinay\Desktop\png\vieworders.png"/>
+              <Image iconType="2" name="C:\Users\Vinay\Desktop\PROJECT\png\vieworders.png"/>
             </Property>
           </Properties>
           <Constraints>
@@ -301,7 +301,7 @@
         <Component class="javax.swing.JLabel" name="jLabel15">
           <Properties>
             <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="2" name="C:\Users\Vinay\Desktop\png\category.png"/>
+              <Image iconType="2" name="C:\Users\Vinay\Desktop\PROJECT\png\category.png"/>
             </Property>
           </Properties>
           <Constraints>
@@ -313,7 +313,7 @@
         <Component class="javax.swing.JLabel" name="jLabel16">
           <Properties>
             <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="2" name="C:\Users\Vinay\Desktop\png\2980586371579156655-128.png"/>
+              <Image iconType="2" name="C:\Users\Vinay\Desktop\PROJECT\png\2980586371579156655-128.png"/>
             </Property>
           </Properties>
           <Constraints>

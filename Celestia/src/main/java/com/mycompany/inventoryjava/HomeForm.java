@@ -162,22 +162,22 @@ public class HomeForm extends javax.swing.JFrame {
         });
         jPanel1.add(jLabel8, new org.netbeans.lib.awtextra.AbsoluteConstraints(60, 230, -1, 42));
 
-        jLabel11.setIcon(new javax.swing.ImageIcon("C:\\Users\\Vinay\\Desktop\\png\\products.png")); // NOI18N
+        jLabel11.setIcon(new javax.swing.ImageIcon("C:\\Users\\Vinay\\Desktop\\PROJECT\\png\\products.png")); // NOI18N
         jPanel1.add(jLabel11, new org.netbeans.lib.awtextra.AbsoluteConstraints(50, 110, 130, 120));
 
-        jLabel12.setIcon(new javax.swing.ImageIcon("C:\\Users\\Vinay\\Desktop\\png\\user.png")); // NOI18N
+        jLabel12.setIcon(new javax.swing.ImageIcon("C:\\Users\\Vinay\\Desktop\\PROJECT\\png\\user.png")); // NOI18N
         jPanel1.add(jLabel12, new org.netbeans.lib.awtextra.AbsoluteConstraints(812, 90, 130, 130));
 
-        jLabel13.setIcon(new javax.swing.ImageIcon("C:\\Users\\Vinay\\Desktop\\png\\customer.png")); // NOI18N
+        jLabel13.setIcon(new javax.swing.ImageIcon("C:\\Users\\Vinay\\Desktop\\PROJECT\\png\\customer.png")); // NOI18N
         jPanel1.add(jLabel13, new org.netbeans.lib.awtextra.AbsoluteConstraints(60, 380, 130, 120));
 
-        jLabel14.setIcon(new javax.swing.ImageIcon("C:\\Users\\Vinay\\Desktop\\png\\vieworders.png")); // NOI18N
+        jLabel14.setIcon(new javax.swing.ImageIcon("C:\\Users\\Vinay\\Desktop\\PROJECT\\png\\vieworders.png")); // NOI18N
         jPanel1.add(jLabel14, new org.netbeans.lib.awtextra.AbsoluteConstraints(820, 360, 130, 150));
 
-        jLabel15.setIcon(new javax.swing.ImageIcon("C:\\Users\\Vinay\\Desktop\\png\\category.png")); // NOI18N
+        jLabel15.setIcon(new javax.swing.ImageIcon("C:\\Users\\Vinay\\Desktop\\PROJECT\\png\\category.png")); // NOI18N
         jPanel1.add(jLabel15, new org.netbeans.lib.awtextra.AbsoluteConstraints(430, 100, 130, 130));
 
-        jLabel16.setIcon(new javax.swing.ImageIcon("C:\\Users\\Vinay\\Desktop\\png\\2980586371579156655-128.png")); // NOI18N
+        jLabel16.setIcon(new javax.swing.ImageIcon("C:\\Users\\Vinay\\Desktop\\PROJECT\\png\\2980586371579156655-128.png")); // NOI18N
         jPanel1.add(jLabel16, new org.netbeans.lib.awtextra.AbsoluteConstraints(430, 360, 140, 150));
 
         jLabel10.setFont(new java.awt.Font("Century Gothic", 0, 24)); // NOI18N

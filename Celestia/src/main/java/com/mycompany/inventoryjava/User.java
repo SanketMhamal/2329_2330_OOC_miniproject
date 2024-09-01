@@ -214,12 +214,6 @@ public class User extends javax.swing.JFrame {
         });
         jScrollPane1.setViewportView(UserTbl);
 
-        jLabel4.setIcon(new javax.swing.ImageIcon("C:\\Users\\Vinay\\Desktop\\png\\add.png")); // NOI18N
-
-        jLabel7.setIcon(new javax.swing.ImageIcon("C:\\Users\\Vinay\\Desktop\\png\\edit.png")); // NOI18N
-
-        jLabel9.setIcon(new javax.swing.ImageIcon("C:\\Users\\Vinay\\Desktop\\png\\delete.png")); // NOI18N
-
         javax.swing.GroupLayout jPanel1Layout = new javax.swing.GroupLayout(jPanel1);
         jPanel1.setLayout(jPanel1Layout);
         jPanel1Layout.setHorizontalGroup(

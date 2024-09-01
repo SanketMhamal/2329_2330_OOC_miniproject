@@ -149,12 +149,6 @@ public class Category extends javax.swing.JFrame {
         });
         jScrollPane1.setViewportView(CategoryTbl);
 
-        jLabel4.setIcon(new javax.swing.ImageIcon("C:\\Users\\Vinay\\Desktop\\png\\add.png")); // NOI18N
-
-        jLabel6.setIcon(new javax.swing.ImageIcon("C:\\Users\\Vinay\\Desktop\\png\\edit.png")); // NOI18N
-
-        jLabel7.setIcon(new javax.swing.ImageIcon("C:\\Users\\Vinay\\Desktop\\png\\delete.png")); // NOI18N
-
         jPanel2.setBackground(new java.awt.Color(0, 0, 102));
         jPanel2.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(255, 204, 0), 3));
 

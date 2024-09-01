@@ -32,11 +32,10 @@ public class DataVisualization extends javax.swing.JFrame {
         jButton2 = new javax.swing.JButton();
         jButton3 = new javax.swing.JButton();
         jButton4 = new javax.swing.JButton();
-        jLabel11 = new javax.swing.JLabel();
         jLabel13 = new javax.swing.JLabel();
-        jLabel14 = new javax.swing.JLabel();
+        jLabel15 = new javax.swing.JLabel();
+        jLabel12 = new javax.swing.JLabel();
         jLabel2 = new javax.swing.JLabel();
-        jTextField1 = new javax.swing.JTextField();
 
         jLabel1.setText("jLabel1");
 
@@ -95,21 +94,17 @@ public class DataVisualization extends javax.swing.JFrame {
         });
         jPanel1.add(jButton4, new org.netbeans.lib.awtextra.AbsoluteConstraints(360, 20, -1, -1));
 
-        jLabel11.setIcon(new javax.swing.ImageIcon("C:\\Users\\Vinay\\Desktop\\png\\products.png")); // NOI18N
-        jPanel1.add(jLabel11, new org.netbeans.lib.awtextra.AbsoluteConstraints(60, 320, 130, 120));
+        jLabel13.setIcon(new javax.swing.ImageIcon("C:\\Users\\Vinay\\Desktop\\PROJECT\\png\\vieworders.png")); // NOI18N
+        jPanel1.add(jLabel13, new org.netbeans.lib.awtextra.AbsoluteConstraints(620, 320, 130, 120));
 
-        jLabel13.setIcon(new javax.swing.ImageIcon("C:\\Users\\Vinay\\Desktop\\png\\customer.png")); // NOI18N
-        jPanel1.add(jLabel13, new org.netbeans.lib.awtextra.AbsoluteConstraints(330, 310, 130, 120));
+        jLabel15.setIcon(new javax.swing.ImageIcon("C:\\Users\\Vinay\\Desktop\\PROJECT\\png\\customer.png")); // NOI18N
+        jPanel1.add(jLabel15, new org.netbeans.lib.awtextra.AbsoluteConstraints(330, 310, 130, 120));
 
-        jLabel14.setIcon(new javax.swing.ImageIcon("C:\\Users\\Vinay\\Desktop\\order.png")); // NOI18N
-        jPanel1.add(jLabel14, new org.netbeans.lib.awtextra.AbsoluteConstraints(610, 290, 130, 150));
+        jLabel12.setIcon(new javax.swing.ImageIcon("C:\\Users\\Vinay\\Desktop\\PROJECT\\png\\products.png")); // NOI18N
+        jPanel1.add(jLabel12, new org.netbeans.lib.awtextra.AbsoluteConstraints(60, 320, 130, 120));
 
-        jLabel2.setIcon(new javax.swing.ImageIcon("C:\\Users\\Vinay\\Desktop\\2.png")); // NOI18N
-        jPanel1.add(jLabel2, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 810, 530));
-
-        jTextField1.setForeground(new java.awt.Color(255, 204, 0));
-        jTextField1.setText("jTextField1");
-        jPanel1.add(jTextField1, new org.netbeans.lib.awtextra.AbsoluteConstraints(340, 110, 160, -1));
+        jLabel2.setIcon(new javax.swing.ImageIcon("C:\\Users\\Vinay\\Desktop\\PROJECT\\png\\spaceeee.jpg")); // NOI18N
+        jPanel1.add(jLabel2, new org.netbeans.lib.awtextra.AbsoluteConstraints(10, 0, 810, 530));
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
         getContentPane().setLayout(layout);
@@ -197,11 +192,10 @@ public class DataVisualization extends javax.swing.JFrame {
     private javax.swing.JButton jButton3;
     private javax.swing.JButton jButton4;
     private javax.swing.JLabel jLabel1;
-    private javax.swing.JLabel jLabel11;
+    private javax.swing.JLabel jLabel12;
     private javax.swing.JLabel jLabel13;
-    private javax.swing.JLabel jLabel14;
+    private javax.swing.JLabel jLabel15;
     private javax.swing.JLabel jLabel2;
     private javax.swing.JPanel jPanel1;
-    private javax.swing.JTextField jTextField1;
     // End of variables declaration//GEN-END:variables
 }
