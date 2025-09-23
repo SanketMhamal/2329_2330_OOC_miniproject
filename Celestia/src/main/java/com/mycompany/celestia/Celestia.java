@@ -6,7 +6,7 @@ package com.mycompany.celestia;
 
 /**
  *
- * @author Vinay
+ * @author Sanket
  */
 public class Celestia {
 
